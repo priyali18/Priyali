@@ -16,7 +16,8 @@
 
 Full-Stack Web Development 
 
-🔗 Let's Connect: priyaliworkspace1@gmail.com
+📩 Let's Connect: [priyaliworkspace1@gmail.com](mailto:priyaliworkspace1@gmail.com)
+
 
 
 💡 Fun Fact: When not coding, you'll find me doing uni work !
